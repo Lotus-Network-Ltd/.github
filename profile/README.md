@@ -29,7 +29,7 @@
 
 `📚`ㆍ[**Wiki**](https://wiki.lotus-land.net)
 
-`📜`ㆍ[**Правила**](https://discord.com/channels/1377345046634037380/1377750125878710282)
+`📜`ㆍ[**Правила**](https://wiki.lotus-land.net/start/rules)
 
 `✨`ㆍ[**Статус сервера**](https://s.mcstatus.io/3f85f5c8525c38e8024c2c83)
 
